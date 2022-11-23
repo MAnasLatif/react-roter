@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-roter/static/css/main.5aa0f125.css",
+    "main.js": "/react-roter/static/js/main.cbb8bb1e.js",
+    "static/js/787.c0b32c92.chunk.js": "/react-roter/static/js/787.c0b32c92.chunk.js",
+    "index.html": "/react-roter/index.html",
+    "main.5aa0f125.css.map": "/react-roter/static/css/main.5aa0f125.css.map",
+    "main.cbb8bb1e.js.map": "/react-roter/static/js/main.cbb8bb1e.js.map",
+    "787.c0b32c92.chunk.js.map": "/react-roter/static/js/787.c0b32c92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aa0f125.css",
+    "static/js/main.cbb8bb1e.js"
+  ]
+}
